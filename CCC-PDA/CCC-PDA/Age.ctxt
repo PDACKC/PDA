@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Age()
+comment1.params=days\ months\ years
+comment1.target=Age(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getDays()
+comment3.params=
+comment3.target=int\ getMonths()
+comment4.params=
+comment4.target=int\ getYears()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=java.lang.String\ results()
+numComments=7
